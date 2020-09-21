@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my page 😄
+Welcome to my page! 
 
 <h3>Things I code with</h3>
 <p>
