@@ -2,7 +2,7 @@
 
 Welcome to my page! 
 
-<h3>Things I code with</h3>
+<!-- <h3>Things I code with</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-cfedff?style=flat-square&logo=CSS3&logoColor=blue" />
@@ -32,7 +32,7 @@ Welcome to my page!
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-yellow?style=flat-square&logo=Firebase&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white"/>
 </p>
-
+ -->
 <!--
 **ywzheng1/ywzheng1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
